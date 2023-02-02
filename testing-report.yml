@@ -10,3 +10,34 @@
 - summary: |
     Фильтрация товаров по цене 
   status: fail 
+  
+- summary: |
+    Просмотр товаров
+  status: pass
+  
+- summary: |
+    Просмотр подробной информации о товаре
+  status: pass
+  
+- summary: |
+    Добавление товара в корзину
+  status: pass
+  
+- summary: |
+    Просмотр содержимого корзины 
+  status: pass
+  
+- summary: |
+    Фильтрация товаров по цвету
+  status: fail
+  
+- summary: |
+    Фильтрация товаров по размеру
+  status: fail
+  
+- summary: |
+     Мобильная версия сайта
+  status: pass
+  
+  
+    
