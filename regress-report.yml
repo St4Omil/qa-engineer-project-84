@@ -83,6 +83,7 @@ test-cases:
   - summary: |
      Тестирование локализации текста в разделе "Категория"
     status: fail
+  
 
 
 bugreports:
