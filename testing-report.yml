@@ -2,3 +2,11 @@
 - summary: |
     Поиск товаров по ключевому слову
   status: pass
+  
+- summary: | 
+    Поиск товаров по категории
+  status: pass
+    
+- summary: |
+    Фильтрация товаров по цене 
+  status: fail 
